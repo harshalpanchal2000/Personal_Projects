@@ -29,7 +29,7 @@ Yourmessage = input("Enter your message: ")
 # In[ ]:
 
 
-pywhatkit.sendwhatmsg("+918530744101",Yourmessage,12,46)
+pywhatkit.sendwhatmsg("+91xxxxxxxxx",Yourmessage,12,46)
 
 
 # In[ ]:
