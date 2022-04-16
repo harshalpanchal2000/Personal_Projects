@@ -1,1 +1,2 @@
-
+The machines have become capable of understanding human languages using Natural Language Processing. Today researches are being done in the field of text analytics.
+And one such application of text analytics and NLP is a Feedback Summarizer which helps in summarizing and shortening the text in the user feedback. This can be done an algorithm to reduce bodies of text but keeping its original meaning, or giving a great insight into the original text. So In this project I will be using NLP to build a text summarizer which will be very helpful for me to get main insights from long long books as I love reading philosphical & Self help books.
