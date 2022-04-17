@@ -1,1 +1,3 @@
-
+The Apriori algorithm is used in Machine Learning to extract association rules from datasets. In this tutorial, I will walk you through Market Basket Analysis utilising the Apriori method in Machine Learning using Python.
+Typically, association mining is conducted on transaction data from a retail marketplace or an online e-commerce business. Because most transaction data is big, the a priori technique makes it simple to quickly uncover these patterns or rules.
+The primary purpose of market basket analysis in marketing is to offer the retailer with the knowledge needed to understand the buyer's purchasing behaviour, which can lead to right decisions.
