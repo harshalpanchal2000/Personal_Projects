@@ -1,1 +1,1 @@
-The Webscraped & performed data analysis on AMZ, TSLA, GameStop stocks
+The Webscraped & performed data analysis on AMZ, TSLA, GameStop stocks.
