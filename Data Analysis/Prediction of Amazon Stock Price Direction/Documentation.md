@@ -35,11 +35,8 @@ The Gradient Boosting Classifier and Logistic Regression performed best on the v
 ## Hyperparameter Tuning
 Hyperparameter tuning was performed for the Logistic Regression model using Grid Search. The best hyperparameters were obtained, but the accuracy did not significantly improve. Due to time constraints, the tuned model was not used.
 
-## Overfitting
-To identify overfitting, the model was evaluated on both the training and test sets, and learning curves were plotted. A significant gap between the curves indicated potential overfitting.
-
-## Regularization
-Regularization was applied to the Logistic Regression model to address overfitting, but the accuracy remained similar.
+## Overfitting & Regularization
+To identify overfitting, the model was evaluated on both the training and test sets, and learning curves were plotted. A significant gap between the curves indicated potential overfitting. Regularization was applied to the Logistic Regression model to address overfitting, but the accuracy remained similar.
 
 ## Important Features for the model: 
 Feature importance was visualized using a bar plot. The features contributing most to the predictive performance were identified which are displayed below :
