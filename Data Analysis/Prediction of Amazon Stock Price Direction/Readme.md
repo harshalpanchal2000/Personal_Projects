@@ -43,5 +43,7 @@ Regularization was applied to the Logistic Regression model to address overfitti
 
 ## Important Features for the model: 
 Feature importance was visualized using a bar plot. The features contributing most to the predictive performance were identified which are displayed below :
-![Important Features](/Data Analysis/Prediction of Amazon Stock Price Direction/Important Features.png)
+<br/>
+<br/>
+![Important Features](https://github.com/harshalpanchal2000/Personal_Projects/blob/main/Data%20Analysis/Prediction%20of%20Amazon%20Stock%20Price%20Direction/Important%20Features.png)
 
